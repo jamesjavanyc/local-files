@@ -5,7 +5,7 @@ This is a Java TCP server demo.
 
 I create this project to understand how tcp server runs.
 
-[Software Demo Video](https://studio.youtube.com/video/lIfuLRBHk4g/edit)
+[Software Demo Video](https://www.youtube.com/watch?v=lIfuLRBHk4g)
 
 Development Environment
 IntelliJ IDEA
